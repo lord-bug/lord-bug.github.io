@@ -1,6 +1,6 @@
 ---
 title: Bienvenid@ a mi Reino
-date: 2022-18-07 20:50:00
+date: 2022-18-07 20:50:00 +0800
 author: lord-bug
 categories: [general]
 tags: [presentacion]
