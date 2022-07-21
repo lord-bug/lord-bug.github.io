@@ -1,7 +1,7 @@
 ---
 title: Bienvenid@ a mi Reino
 author: lord-bug
-categories: [general]
+categories: [General]
 tags: [presentacion]
 ---
 
