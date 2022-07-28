@@ -1,8 +1,8 @@
 ---
 title: El programador que no programa
 author: lord-bug
-categories: [Programacion]
-tags: [jekyll,]
+categories: [Programacion,Tecnología]
+tags: [jekyll,programacion,tecnologia,blog]
 ---
 
 # El motivo por el que uso Jekyll
