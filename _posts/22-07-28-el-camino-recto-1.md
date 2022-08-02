@@ -21,7 +21,7 @@ Siempre he sido una persona tremendamente poco constante y con mucha facilidad p
 Esto, me ha llevado a diversas situaciones personales, como la falta de salida laboral en el pasado, una tremenda sensación de ansiedad incrementada con el auge de los "instadevs" (algún día hablaré de este fenómeno), y por supuesto, nuestro viejo conocido, el [síndrome del impostor](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor).
 
 <p style="text-align:center;">
-    <img src="../assets/img/2022-07-28/imposter-syndrome.jpg" width="420">
+    <img src="2022-07-28/imposter-syndrome.jpg" width="420">
 </p>
 
 Por eso, y de una vez por todas, he decidido trazar un itinerario de aprendizaje que me permita centrarme de una vez por todas, a base de poco estudio y mucha práctica, en mejorar mis habilidades y, sobre todo, sentirme seguro cuando trabajo o hablo con colegas de profesión.
