@@ -22,7 +22,7 @@ Pues lo mismo los programadores. Yo llevo toda mi vida trabajando en el Backend 
 Pues una de dos: o te haces un bootcamp de desarrollador web full stack tope chachi guai (gratuito o no), lo cual lleva su tiempo, o utilizas algo prefabricado. Algún día daré mi opinión sobre esto de ser Full Stack y las modas.
 
 <p style="text-align:center;">
-    <img src="../assets/img/2022-07-21/full-stack-meme.jpg" width="420">
+    <img src="https://lord-bug.github.io/assets/img/2022-07-21/full-stack-meme.jpg" width="420">
 </p>
 
 ## Jekyll
@@ -34,7 +34,7 @@ Realmente pensaba que había descubierto algo perfecto, dado que eliminaba de un
 A pesar de todo, tenía las mismas ganas de tener un blogspot o un wordpress que de sentarme encima de un cactus, por lo que adapté mi búsqueda un poco y encontré mi Santo Grial, [Jekyll](https://jekyllrb.com/).
 
 <p style="text-align:center;">
-    <img src="../assets/img/2022-07-21/holy-grail-jekyll.jpg">
+    <img src="https://lord-bug.github.io/assets/img/2022-07-21/holy-grail-jekyll.jpg">
 </p>
 
 Jekyll es un generador de webs estáticas, ideal para crear blogs o portafolios con el mínimo esfuerzo. Está basado en Ruby, aunque no es necesario saber este lenguaje para ponerlo en funcionamiento (yo no tengo ni idea de Ruby).
