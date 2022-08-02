@@ -24,6 +24,8 @@ Esto, me ha llevado a diversas situaciones personales, como la falta de salida l
     <img src="2022-07-28/imposter-syndrome.jpg" width="420">
 </p>
 
+![My image Name](/2022-07-28/imposter-syndrome.jpg)
+
 Por eso, y de una vez por todas, he decidido trazar un itinerario de aprendizaje que me permita centrarme de una vez por todas, a base de poco estudio y mucha práctica, en mejorar mis habilidades y, sobre todo, sentirme seguro cuando trabajo o hablo con colegas de profesión.
 
 El nombre creo que es bastante explicativo, un camino de aprendizaje recto, sin desvíos ni distracciones.
